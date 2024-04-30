@@ -1,6 +1,6 @@
 Package: PanomiR
 Title: Detection of miRNAs that regulate interacting groups of pathways
-Version: 1.7.0
+Version: 1.8.0
 Authors@R: c(
     person("Pourya", "Naderi", email = "pouryany@gmail.com",
            role = c("aut", "cre")),
